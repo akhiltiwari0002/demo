@@ -1,2 +1,2 @@
 # demo
-demo java and myaql
+this cotain instruction
